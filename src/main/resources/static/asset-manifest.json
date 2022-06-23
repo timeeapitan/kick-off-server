@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kick-off-app/static/css/main.c0bae2c3.css",
+    "main.js": "/kick-off-app/static/js/main.0d24bd8b.js",
+    "static/js/787.e7c4cf13.chunk.js": "/kick-off-app/static/js/787.e7c4cf13.chunk.js",
+    "static/media/soccer-ball.gif": "/kick-off-app/static/media/soccer-ball.968cb3f139ded72e54a6.gif",
+    "static/media/image_2.jpg": "/kick-off-app/static/media/image_2.4ae04bf0400782d78db2.jpg",
+    "static/media/logo.png": "/kick-off-app/static/media/logo.1b9e6eb5202bd000195b.png",
+    "static/media/image_5.jpg": "/kick-off-app/static/media/image_5.737881a1a27edb48843b.jpg",
+    "static/media/image_1.jpg": "/kick-off-app/static/media/image_1.fb7585820e20637f3f9f.jpg",
+    "static/media/image_4.jpg": "/kick-off-app/static/media/image_4.c6ba8fde1eb006f17eb7.jpg",
+    "static/media/image_3.jpg": "/kick-off-app/static/media/image_3.26fd3eb1382061cffaf9.jpg",
+    "index.html": "/kick-off-app/index.html",
+    "main.c0bae2c3.css.map": "/kick-off-app/static/css/main.c0bae2c3.css.map",
+    "main.0d24bd8b.js.map": "/kick-off-app/static/js/main.0d24bd8b.js.map",
+    "787.e7c4cf13.chunk.js.map": "/kick-off-app/static/js/787.e7c4cf13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0bae2c3.css",
+    "static/js/main.0d24bd8b.js"
+  ]
+}

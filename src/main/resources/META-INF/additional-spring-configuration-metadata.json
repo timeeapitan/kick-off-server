@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect."
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    }
+  ]
+}
